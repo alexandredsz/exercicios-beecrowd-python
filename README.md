@@ -1,5 +1,5 @@
 # Exercicios do beecrowd resolvidos 💻🐍
-### Repositório com exercícios do URI que resolvi em Python no primeiro semestre do curso de Ciência da Computação.
+### Repositório com exercícios do beecrowd (antigo URI) que resolvi em Python no primeiro semestre do curso de Ciência da Computação.
 
 ###### Essa lista contém os seguintes exercícios:
 
