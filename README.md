@@ -1,7 +1,7 @@
 # Exercicios do beecrowd resolvidos 💻🐍
-### Repositório com exercícios do beecrowd (antigo URI) que resolvi em Python no primeiro semestre do curso de Ciência da Computação.
+### Minhas resoluções de alguns exercícios do beecrowd (antigo URI) em Python.
 
-###### Essa lista contém os seguintes exercícios:
+###### Este repositório contém os seguintes exercícios:
 
 - 1021
 - 1035
